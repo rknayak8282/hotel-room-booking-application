@@ -1,4 +1,4 @@
-# Hotel-room-booking-application
+# Hotel-Room-Booking-Application
 It is a microservices-based backend application used to book rooms for a single hotel.
 
 BOOKING SERVICE:
